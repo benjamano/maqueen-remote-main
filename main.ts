@@ -64,6 +64,9 @@ gamePad.onEvent(GamerBitPin.P1, GamerBitEvent.Down, function () {
     basic.showIcon(IconNames.Happy)
     radio.sendString("happy")
 })
+input.onButtonPressed(Button.AB, function () {
+    radio.sendString("ledsoff")
+})
 input.onButtonPressed(Button.B, function () {
     radio.sendString("rightled")
 })
