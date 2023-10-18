@@ -1,5 +1,6 @@
+## Introduction
 
-> Open this page at [https://benjamano.github.io/maqueen-remote-main/](https://benjamano.github.io/maqueen-remote-main/)
+I made this code which works with the "Maqueen" microbit extension, this is the code for the remote/controller, which can send instructions from the controller. It should be "Plug and Play" buy just downloading this code into the remote and the car code into the car.
 
 ## Use as Extension
 
